@@ -31,5 +31,6 @@
     <h2> What I learned </h2>
     It is the first game I made with unity.<br><br>
     At this moment, I don't know anything about programming.<br><br>
-    I joined the club(circle?) and learned about game development.
+    After this development, I understood many things about programming.<br><br>
+    Variables, If-Else, Functions and so on.
   </div>
