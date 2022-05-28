@@ -28,6 +28,10 @@
       </table>
   </div>
   <div>
+    <h2> Game Play Video </h2>
+    https://www.youtube.com/watch?v=wqlsyT2uV8E
+  </div>
+  <div>
     <h2> What I learned </h2>
     It is the first game I made with unity.<br><br>
     At this moment, I don't know anything about programming.<br><br>
