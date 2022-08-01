@@ -5,9 +5,25 @@
     <img src="https://img.shields.io/badge/Unity-yellow?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Puzzle-purple"/>
     <h4> 개발 일자 : 2017 <br><br>
-    팀원 : https://github.com/Eungu-Kwon <br><br>
-    itch.io 페이지 : https://goodstarter.itch.io/luminous
-    
+    <팀원> <br><br>
+      <table border="1">
+        <tr>
+          <th>
+            Roy052 
+          </th>
+          <th>
+            맵 배치, 회전 거울 등 기능 구현
+          </th>
+          <th>
+          </th>
+        </tr>
+        <tr> 
+            <th> Eungu-Kwon </th>
+          <th> 거울, 블랙홀 등 기능 구현 </th>
+          <th> https://github.com/Eungu-Kwo </th>
+        </tr>
+      </table>
+    게임 플레이 : https://goodstarter.itch.io/luminous
   </div>
   <div>
     <h2> 게임 설명 </h2>
